@@ -1,13 +1,15 @@
-# NASA Space Apps Challenge 2023 
+# Datatón Bancolombia 2023
 
 ![Banner](/profile/banner.png)
 
 ## El equipo de Neural NetWorth
 
-![profile](/profile/profile.jpeg)
-
-Nuestro equipo está conformado por:
+### Integrantes
 
 - Camilo Galvis.
 - Juan José Arístizabal.
 - Juan Manuel Young Hoyos.
+
+### Logo
+
+![profile](/profile/profile.jpeg)
